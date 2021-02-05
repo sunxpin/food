@@ -1,0 +1,9 @@
+###
+POST http://localhost:8080/api/v1/orders
+Content-Type: application/json
+
+{
+  "accountId": 12145,
+  "address": "珠江城",
+  "productId": 2
+}
